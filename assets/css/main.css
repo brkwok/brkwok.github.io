@@ -3291,6 +3291,11 @@ input, select, textarea {
 		text-align: center;
 	}
 
+	.skillset img {
+		height: 57px;
+		width: 56px;
+	}
+
 	.skillset-container div {
 		display: flex;
 		justify-content: center;
